@@ -1,0 +1,66 @@
+[
+  {
+    "archivo": "CS_META_EVAL_CONV_V01_FEED.png",
+    "sha256": "2f0c5009c126c7f5c4651912c718a742f5a5804208ba59ebc93adf82d2ebb80b"
+  },
+  {
+    "archivo": "CS_META_EVAL_EMO_V01_FEED.png",
+    "sha256": "effa1a3e5ba75e99ec5ead051d90aff44e86b15585d2c03277760c3574c21b18"
+  },
+  {
+    "archivo": "CS_META_FONO_CONV_V01_FEED.png",
+    "sha256": "17c77f2da88dbbd71ec7580ce6eece9248922a9ffb27143dfdf6474f874a5c31"
+  },
+  {
+    "archivo": "CS_META_FONO_EMO_V01_FEED.png",
+    "sha256": "1fb6dd36da124a42959bdc9e719a12bb07aa87190873915b210f7f69e52ba765"
+  },
+  {
+    "archivo": "CS_META_ORIENT_CONV_V01_FEED.png",
+    "sha256": "189333d8ec1a0e5baa77ba358aaf01e50454ff664fb71d7d490886adc7ac6dd6"
+  },
+  {
+    "archivo": "CS_META_ORIENT_EMO_V01_FEED.png",
+    "sha256": "d346d16d0b40fad1b579def9715640200bfe7b15b61d39a0681f234141ea7a57"
+  },
+  {
+    "archivo": "CS_META_PSICOADULTOS_CONV_V01_FEED.png",
+    "sha256": "6d13a1540657b3fdb7bd29a34448372c292190442cc158a8be41ee82a8cbc9b4"
+  },
+  {
+    "archivo": "CS_META_PSICOADULTOS_EMO_V01_FEED.png",
+    "sha256": "27f3df193a4858836565348e69ddf5f27df6190fd18d6bab0839d8a229874f28"
+  },
+  {
+    "archivo": "CS_META_PSICOINF_CONV_V01_FEED.png",
+    "sha256": "69d213a1ce52c06521d933c828ee67a0cb7735ec3a3a52fa356c7a4d867f1f77"
+  },
+  {
+    "archivo": "CS_META_PSICOINF_EMO_V01_FEED.png",
+    "sha256": "3a1ae0ac627be18bbb4b3ba4a2889ef55e651c34225b7dcd2ccaf08d03ff3b24"
+  },
+  {
+    "archivo": "CS_META_PSICOPED_CONV_V01_FEED.png",
+    "sha256": "84cf46f15a9c9165dbfab81706cb07a400bebe8de1352c1e11640de1fc380dcf"
+  },
+  {
+    "archivo": "CS_META_PSICOPED_EMO_V01_FEED.png",
+    "sha256": "d48cd1046c1010fb2817cf237c62fde4e5e4b9530086180a844ecd50b926f9b5"
+  },
+  {
+    "archivo": "CS_META_RMK_CONFIANZA_V01_FEED.png",
+    "sha256": "760a20dcdcd820490feb13b0c6a04f57c0f7ae5ec7a509b6534e10fb28ab7185"
+  },
+  {
+    "archivo": "CS_META_RMK_REEMBOLSO_V01_FEED.png",
+    "sha256": "97c990779428e93cae1e11d7854240e4f0f5f77e9ccabcca704b9527fc88d74f"
+  },
+  {
+    "archivo": "CS_META_TO_CONV_V01_FEED.png",
+    "sha256": "deb597020163e633ee4b1702f62bc8cd9a46f8a82e3845401948ca481a453e0c"
+  },
+  {
+    "archivo": "CS_META_TO_EMO_V01_FEED.png",
+    "sha256": "e05a9026bfd8a0113ac3d8c3077533ba27deae2ebcfe8fae120f6fad2644181e"
+  }
+]
